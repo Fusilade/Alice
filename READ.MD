@@ -35,14 +35,14 @@ Alice Madness Returns
 *** Probably best not to publish the SHA1 Cert potential issue publicly as EA will DEFINATELY pull the game from the servers.
 					
 [Instructions (Quick Guide:)]
-[0] Install Game: * Install or Drag n Drop files to location
-[1] Create Shortcut 
-[2] Add modified or Edit ini files to;
-	a) * enable console commands					- See _Input.ini
-	b) * Edit Appcompat & Engine.ini settings you want		- See _Engine.ini & _AppCompat.ini 
-	c) * Add Cheats.txt to the binaries folder
-[3] 1st Run Enable NewGame+ & DLC etc
-[4] In-Game disable PostProcess | fog | MotionBlur | Coronas.
+* [0] Install Game: * Install or Drag n Drop files to location
+* [1] Create Shortcut 
+* [2] Add modified or Edit ini files to;
+*	a) * enable console commands					- See _Input.ini
+*	b) * Edit Appcompat & Engine.ini settings you want		- See _Engine.ini & _AppCompat.ini 
+*	c) * Add Cheats.txt to the binaries folder
+* [3] 1st Run Enable NewGame+ & DLC etc
+* [4] In-Game disable PostProcess | fog | MotionBlur | Coronas.
 
 ---- Enable Hidden Menu Option: "aliceentryextra" ----
 "M:\Games\Alice\Binaries\Win32\AliceMadnessReturns.exe" aliceentryextra -nomoviesstartup -log
