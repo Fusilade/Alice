@@ -1,15 +1,15 @@
 ----------------------------
 Alice Madness Returns
 ----------------------------
-Title:		Alice Madness Returns Info & Mods
-Date:		June 2024
-Author:		TKBS 
-Credits:	"sirarthuryeetcannon" (UT-Discord), AlfredStryker (NEXUS-site).
-Desc:		Enable Command Console, Unlock NewGame+, DLC, Menu Choices for weapons/ Dresses & Modify Alice.
-Info:		- "sirarthuryeetcannon" asked if Alice could be edited & mentioned that a post by "AlfredStryker" said console could be enabled
-			- Not a fan of nexus so i made what i could without seeing alfreds content then checked to see what alfred had done.
+* Title:		Alice Madness Returns Info & Mods
+* Date:		June 2024
+* Author:		TKBS 
+* Credits:	"sirarthuryeetcannon" (UT-Discord), AlfredStryker (NEXUS-site).
+* Desc:		Enable Command Console, Unlock NewGame+, DLC, Menu Choices for weapons/ Dresses & Modify Alice.
+* Info:		- "sirarthuryeetcannon" asked if Alice could be edited & mentioned that a post by "AlfredStryker" said console could be enabled
+* Infox:	- Not a fan of nexus so i made what i could without seeing alfreds content then checked to see what alfred had done.
 
-[Pre-Requisites]
+[Installtion: Pre-Requisites]
 * DirectX
 * dotnetfx35
 * vcredist - msvc++ 2008 x86
@@ -30,8 +30,7 @@ Info:		- "sirarthuryeetcannon" asked if Alice could be edited & mentioned that a
 								....Unless an old origin Key can be claimed and it still work if you email EA?
 								
 *** Probably best not to publish the SHA1 Cert potential issue publicly as EA will DEFINATELY pull the game from the servers.
-
-							
+					
 [Instructions (Quick Guide:)]
 [0] Install Game: * Install or Drag n Drop files to location
 [1] Create Shortcut 
