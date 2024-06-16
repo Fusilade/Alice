@@ -1,0 +1,62 @@
+//!warning: Cheats and changes are saved into the profile.bin & Game SAVE DATA!
+
+show postprocess
+show fog
+FULLMOTIONBLUR 0
+
+//! ---- Cheats & CMDs Commonly Used/ useful ----
+//ghost
+InitCheatManager
+EnableCheats
+fullhealth
+god
+SuperDamage
+
+//;"IA" = infiniteammo
+set AliceInventoryManager binfiniteammo true
+
+//teeth ###
+Set alicepawn XPValue 9999
+
+//! ---- Resolution ----
+//setres 3840x2160 fullscreen
+//setres 720x480w
+//setres 1920x1080f
+
+//! ---- AliceCheatManager extends CheatManager within AlicePlayerController ----
+//! ...Note these will not be counted as recovered, but will unlock the memories.
+set AliceCheatManager bUnlockAllMemory true
+set AliceCheatManager bUnlockAllSnout true
+set AliceCheatManager bUnlockAllSecret true
+set AliceCheatManager bUnlockAllbink true
+
+//! ---- AlicePawn Stuff; ----
+set alicepawn JumpZ 999.0
+set alicepawn maxwalkingspeed 999
+set alicepawn maxrunningspeed 999
+set alicepawn SprintSpeed 999
+set alicepawn SprintOffSpeed 666
+set alicepawn GroundSpeed 666
+set alicepawn AttackRadius 666
+
+//! ---- AlicePawn Hysteria Stuff; ----
+//Set AlicePawn bActivateHysterialAnytime true
+//set alicepawn bEnableHysteria true
+//set alicepawn bHysteriaGodMode true
+//;set alicepawn bInHysteriaMode true
+
+//! ---- AliceGameEngine; "setFinishGameOnHard" ----
+set AliceGameEngine bFinishGameOnHard  true
+
+//! ---- Enable "New Game +" ----
+GetAllDresses
+EnableAllDLCWeapons
+EnableAllWeaponsSelect
+set AliceCheatManager bEnableAllWeaponsSelect true
+forceUnlockAllChapter
+forceUnlockAllCave
+forceUnlockAllEnemy
+forceUnlockAllBink
+forceUnlockAllMemory
+forceUnlockAllSnout
+forceUnlockAllSecret
