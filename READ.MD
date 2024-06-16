@@ -35,7 +35,7 @@ Alice Madness Returns
 [0] Install Game: * Install or Drag n Drop files to location
 [1] Create Shortcut 
 [2] Add modified or Edit ini files to;
-	a) * enable console commands							- See _Input.ini
+	a) * enable console commands					- See _Input.ini
 	b) * Edit Appcompat & Engine.ini settings you want		- See _Engine.ini & _AppCompat.ini 
 	c) * Add Cheats.txt to the binaries folder
 [3] 1st Run Enable NewGame+ & DLC etc
