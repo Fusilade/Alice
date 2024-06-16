@@ -4,7 +4,7 @@ Alice Madness Returns
 * Title:		Alice Madness Returns Info & Mods
 * Date:		June 2024
 * Author:		TKBS 
-* Credits:	"sirarthuryeetcannon" (UT-Discord), AlfredStryker (NEXUS-site).
+* Mentions:	"sirarthuryeetcannon" (UT-Discord), AlfredStryker (NEXUS-site).
 * Desc:		Enable Command Console, Unlock NewGame+, DLC, Menu Choices for weapons/ Dresses & Modify Alice.
 * Info:		- "sirarthuryeetcannon" asked if Alice could be edited & mentioned that a post by "AlfredStryker" said console could be enabled
 * Infox:	- Not a fan of nexus so i made what i could without seeing alfreds content then checked to see what alfred had done.
